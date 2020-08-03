@@ -1,0 +1,22 @@
+{
+  "name": "blog-application",
+  "version": "1.0.0",
+  "description": "Rest API for Blog Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avinash Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "helmet": "^3.21.3",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.28",
+    "mongoose": "^5.9.2",
+    "pino": "^5.17.0",
+    "shortid": "^2.2.15"
+  }
+}
